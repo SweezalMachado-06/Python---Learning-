@@ -1,2 +1,2 @@
 # Python---Learning:
-This repository contains my Python learning journey.
+This repository has my Python learning journey.
